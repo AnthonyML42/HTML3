@@ -1,0 +1,58 @@
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<title> Why Ugandan Knuckles is The Best Marvel Character </title>
+
+<div class="title1"><img src="U:\Year 9\Computer Science\Web Development\Images\1200px-MarvelLogo_svg.png"alt="Marvel" width="300" height="100"></div>
+
+
+<div class="title2"><h1><font size="9" face="Freestyle Script"> Why Ugandan Knuckles is The Best Marvel Character</font> </h1></div>
+</head>
+
+<body><h2> ----------------------------------------------------------------------------------------------------------------------------------- </h2> </body>
+<p>
+
+<center><a href="U:\Year 9\Computer Science\Web Development\HTML\1. How to not Spoil End Game.html"> Beginners Guide to not Spoiling Endgame </a>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<a href="U:\Year 9\Computer Science\Web Development\HTML\Page 2"> How Our Plastics Are Killing The MCU </a></center>
+
+<body><h2> ----------------------------------------------------------------------------------------------------------------------------------- </h2> </body>
+<p>
+
+<p>
+        <img alt="" src="U:\Year 9\Computer Science\Web Development\Images\22c.gif" 
+            style="height: 300px; width: 900px" id="imgClickAndChange" onclick="changeImage()"  />
+</p>
+
+<br>
+<body><p id="Knuckles">Thanos Knuckles invaded and the Avengers Knuckles attempted to stop him. However, he easily defeated them. To demonstrate his dominance, having in his possession every Infinity Stone in his Infinity Gauntlet, he summoned an image of Iron Knuckles and Spider-Knuckles before a crowd with the red Infinity Stone. He showed how he killed Spider-Knuckles, making him to fade away into death, simply because he did not like Spider-Knuckles. He replays this scene multiple times for all to see. He goes on to demonstrate his power, using the power of all the different stones.</p></body>
+<p>
+
+<button onclick="document.getElementById('Knuckles').innerHTML = 'DO YOU KNOW DA WAE'">
+Click for Hell :)
+</button>
+
+<p>
+<div class="title1"><img src="U:\Year 9\Computer Science\Web Development\Images\Thanos_Knuckles.png"alt="Marvel" width="500" height="300"></div>
+<p>
+<div class="title1"><img src="U:\Year 9\Computer Science\Web Development\Images\ThomasBigGay.jpg"alt="Marvel" width="400" height="300"></div>
+
+ </HTML>
